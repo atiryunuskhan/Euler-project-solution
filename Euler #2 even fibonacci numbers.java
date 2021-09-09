@@ -1,3 +1,4 @@
+//time complexity O(n) for every individual number
 import java.io.*;
 import java.util.*;
 import java.text.*;
