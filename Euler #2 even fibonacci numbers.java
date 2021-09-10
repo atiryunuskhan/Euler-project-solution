@@ -1,5 +1,10 @@
 //time complexity O(n) for each individual number
+import java.io.*;
 import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
 public class Solution 
 {
 
